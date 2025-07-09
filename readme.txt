@@ -91,6 +91,6 @@ MIT License
 ---
 
 ## 👨‍💻 Author
-Your Name - [GitHub Profile](https://github.com/your-username)
+Shivam Lovevanshi - [GitHub Profile](https://github.com/shivamlove224)
 
 ---
